@@ -122,4 +122,4 @@ https://www.figma.com/design/LYfHpS033uP2yKvRDxQRIs/Untitled?node-id=0-1&t=GzfAF
 
 ## GITHUB LÄNK
 
-## HOST LÄNK
+## HOST LÄNK  https://shop.harmoni.fun/?page_id=202
