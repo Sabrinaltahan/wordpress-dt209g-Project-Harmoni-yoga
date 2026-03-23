@@ -58,7 +58,6 @@ harmoni-yoga-theme/
 ├── page.php
 ├── single-news.php
 ├── single-offers.php
-├── single-team.php
 ├── single-services.php
 └── README.md
 
@@ -97,14 +96,6 @@ Används för att visa:
  Appearance -> MENUS
 
  ---
-
-## Användning av AI
-AI-verktyg har använts för att:
-- Förbättra texter och innehåll
-- Strukturera projektet
-- Stödja kodutveckling och felsökning
-
----
 
 ## Utvecklare
 **Sabrin Altahan**
